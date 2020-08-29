@@ -1,0 +1,23 @@
+=====================
+deploy_contracts
+=====================
+
+- FarmerRole
+   ----------------------
+   > transaction hash:    0x9384a11204dc25fc5f0c7c73d3c95b5a24ad28a7a610025e17cb4ed290dee5ba
+   > contract address:    0x6977ca0e90fb4137228d4E1398A5EA7a28e32966
+
+- SellerRole
+   ----------------------
+   > transaction hash:    0x8112ac7f48d29386269681618ce87e08dd8e1d1a7747002fdc0026be0a15f5dd
+   > contract address:    0x56af184168a4cC47A8F16fDb0aE41cC6999c0EE2
+
+- ConsumerRole
+   ------------------------
+   > transaction hash:    0x64dc8170cfdf5805091f6174f6b9b61c0a2b5dc5d0bde6e50bc3d8dc86b2cabf
+   > contract address:    0x917AB5cEA03B3c590f5aa647619D27dA253Ec15b
+
+- SupplyChain
+   -----------------------
+   > transaction hash:    0x99fa15e9b8a235a07f81303900c958d920d2c867e9abb09ec0faf295f3bcecff
+   > contract address:    0x835F79CA89Be522a3E82be630393A613427EAEE1
